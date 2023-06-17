@@ -1,7 +1,7 @@
-echo "# cyj" >> README.md
+echo "# chyj" >> cy.txt
 git init
-git add yj.txt
+git add cy.txt
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/chlist/cyj.git
+git remote add origin https://github.com/chlist/chyj.git
 git push -u origin main
