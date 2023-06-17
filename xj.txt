@@ -1,0 +1,7 @@
+echo "# chyj" >> xj.txt
+git init
+git add xj.txt
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/chlist/chyj.git
+git push -u origin main
